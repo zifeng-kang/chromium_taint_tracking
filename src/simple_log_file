@@ -1,0 +1,15 @@
+Xlib:  extension "RANDR" missing on display ":1.0".
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+Xlib:  extension "RANDR" missing on display ":1.0".
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+[28561:28561:0523/172012:ERROR:gl_surface_glx.cc(383)] glxQueryVersion failed
+[28561:28561:0523/172012:ERROR:gl_initializer_x11.cc(130)] GLSurfaceGLX::InitializeOneOff failed.
+[28561:28561:0523/172012:ERROR:gpu_child_thread.cc(348)] Exiting GPU process due to errors during initialization
+[28529:28548:0523/172012:ERROR:browser_gpu_channel_host_factory.cc(116)] Failed to launch GPU process.
+[28529:28529:0523/172012:ERROR:CONSOLE(1)] "Failed to set referrer policy: The value 'strict-origin' is not one of 'always', 'default', 'never', 'no-referrer', 'no-referrer-when-downgrade', 'origin', 'origin-when-crossorigin', or 'unsafe-url'. The referrer policy has been left unchanged.", source: https://www.google.com/_/chrome/newtab?espv=2&ie=UTF-8 (1)
+[28529:28529:0523/172013:ERROR:CONSOLE(14)] "Uncaught TypeError: Cannot read property 'V' of null", source: https://www.google.com/_/chrome/newtab?espv=2&ie=UTF-8 (14)
+** Message: 17:20:13.568: Remote error from secret service: org.freedesktop.Secret.Error.IsLocked: Cannot create an item in a locked collection
+[28529:28529:0523/172018:ERROR:gtk2_key_bindings_handler.cc(126)] Not implemented reached in void libgtk2ui::Gtk2KeyBindingsHandler::BuildGdkEventKeyFromXEvent(const base::NativeEvent &, GdkEventKey *)
+[28529:28529:0523/172019:INFO:CONSOLE(12)] "SW registered", source: https://www.google.com/_/chrome/newtab?espv=2&ie=UTF-8 (12)
