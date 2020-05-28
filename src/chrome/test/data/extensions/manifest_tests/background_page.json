@@ -1,7 +1,0 @@
-{
-  "name": "test",
-  "version": "1",
-  "background": {
-    "page": "foo.html"
-  }
-}

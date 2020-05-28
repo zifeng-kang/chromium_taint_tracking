@@ -1,8 +1,0 @@
-{
-  "name": "Test Shared Module",
-  "version": "1",
-  "export": {
-    "resources": ["*"]
-  },
-  "about_page": "about.html"
-}

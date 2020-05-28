@@ -1,7 +1,0 @@
-{
-  "name": "Extension v1 again",
-  "version": "1.0",
-  "background": {
-    "page": "bg.html"
-  }
-}
